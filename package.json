@@ -1,0 +1,13 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenwenqin <971918560@qq.com>",
+  "license": "MIT",
+  "scripts":{
+    "test":"mocha ./src/**/test.js"
+  },
+  "dependencies": {
+    "mocha": "^6.2.0"
+  }
+}
